@@ -2,22 +2,22 @@
 ![](terminal-icon.png)
 ![](gui-icon.png)
 
-Це одна з робіт, які доповнюють основний цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП.  Основна мета цих додаткових вправ - познайомитись з різними видами інтерфейсів користувача та засобами їх створення. Згадувані 'базові' роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA) (якщо будете робити завдання на "4" або "5" раджу переглянути [діаграму класів](https://github.com/liketaurus/OOP-JAVA/blob/master/MyBank.png), аби розуміти які методи є у класів).
-
-В ході цієї роботи вам пропонується виконати **наступне завдання** - [Робота 5: GUI з JavaFX](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/Lab%205%20-%20JavaFX/Lab%205.md)
+В ході цієї практичної роботи я виконав **наступне завдання** - [Робота 5: GUI з JavaFX](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/Lab%205%20-%20JavaFX/Lab%205.md)
   
-**Додаткове завдання** (для тих хто зробив все і прагне більшого): [дивіться тут](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/Lab%205%20-%20JavaFX/Lab%20-%205%20-%20add.md)
+Код:
 
-Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/GUI-Lab3-Starter/tree/master/data).
+[Відкрити FXDemo.java](https://github.com/ppc-ntu-khpi/gui-3-passion348/blob/master/src/fxdemo/FXDemo.java)
 
----
-**УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
+Завдання на 3:
 
-Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
-А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
+<img width="496" height="369" alt="Снимок экрана 2026-06-11 180331" src="https://github.com/user-attachments/assets/b07792c8-7194-4739-be74-4276dbeb0ba8" />
 
-[![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Завдання на 5:
 
-![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
-![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+<img width="627" height="485" alt="Снимок экрана 2026-06-11 181031" src="https://github.com/user-attachments/assets/455a1b13-6ada-4270-a9cf-582af7d7c252" />
+<br>
+<img width="721" height="534" alt="Снимок экрана 2026-06-11 181034" src="https://github.com/user-attachments/assets/eb88261f-9506-4e35-99ed-7708ef3b332b" />
+<br>
+<img width="742" height="562" alt="Снимок экрана 2026-06-11 181038" src="https://github.com/user-attachments/assets/277894cb-729b-4720-9cf4-3ed685f50e6b" />
+<br>
+<img width="585" height="425" alt="Снимок экрана 2026-06-11 181222" src="https://github.com/user-attachments/assets/e16718e0-6ba9-460b-8465-127baac0fbbc" />
